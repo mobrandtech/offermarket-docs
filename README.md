@@ -154,7 +154,8 @@
 | status-status | String | "APPROVED" , "PENDING" or "REJECTED" |
 | directOfferLink | String | null if not approved |
 | offerId | String | id used to make requests |
-
+| payout | INTEGER | the payout in cents of "currency" |
+| currency | String | currency of the payout |
 
 
 ## Request Offers
@@ -166,7 +167,7 @@
 | userid | String | {YOURUSERID} |
 | apiKey | String | {YOURAPIKEY} |
 
-#### Body Response:
+#### Body Example:
 ###### Note: Should be offerId not numericId
 ```
 [
@@ -175,5 +176,7 @@
     "offerId3"
 ]
 ```
+
+### Response description
 
 ###### Note: Request changes status to "PENDING", offers will need to be approved by your AM
