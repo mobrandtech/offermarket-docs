@@ -94,10 +94,7 @@
         "title":"ASHLEY MADISON: Life Is Short.",
         "iconUrl":"https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/5c/22/84/5c228474-ea7d-bfd6-399c-7afc0613cf00/source/512x512bb.jpg",
         "previewUrl":"",
-        "screenshots":[
-            "https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/68/ac/cb/68accb59-bbdf-d0fa-d2f3-5852d6a96db0/pr_source.png/392x696bb.png",
-            "https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/1b/8c/db/1b8cdbca-c2a9-c973-ba8d-03f09612c72b/pr_source.png/392x696bb.png"
-        ],
+        "screenshots":null,
         "currency":"USD",
         "directOfferLink": "https://t.offerlink.net/offermarket/tracker/PUB?offerId=1889",
         "description":"description example",
