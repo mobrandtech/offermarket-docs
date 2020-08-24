@@ -132,7 +132,7 @@
             "platforms":[
                 "IOS"
             ],
-            "capping":"",
+            "capping":"capping": "Daily Cap 25",
             "device":"Multi",
             "flow":"Install + 1st Purchase"
         },
@@ -159,6 +159,8 @@
 | offerId | String | id used to make requests |
 | payout | INTEGER | the payout in cents of "currency" |
 | currency | String | currency of the payout |
+| capping | String | "Monthly Cap","Daily Cap","Daily Budget","Monthly Budget"  followed by a number|
+
 
 
 ## Request Offers
