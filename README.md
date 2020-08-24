@@ -156,6 +156,7 @@
 | status | Object | null if not approved |
 | status-status | String | "APPROVED" , "PENDING" or "REJECTED" |
 | directOfferLink | String | null if not approved |
+| numericId | Long | can be null for some old offers |
 | offerId | String | id used to make requests |
 | payout | INTEGER | the payout in cents of "currency" |
 | currency | String | currency of the payout |
