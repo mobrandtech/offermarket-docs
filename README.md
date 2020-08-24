@@ -132,7 +132,7 @@
             "platforms":[
                 "IOS"
             ],
-            "capping":"capping": "Daily Cap 25",
+            "capping": "Daily Cap 25",
             "device":"Multi",
             "flow":"Install + 1st Purchase"
         },
