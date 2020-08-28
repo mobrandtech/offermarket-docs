@@ -24,7 +24,7 @@
 | offerType | String | "cpi" , "cpa" or "cpl"  | No | "all" |
 
 #### Example Url:
-``` https://api.mobrand.net/{YOURUSERID}/bulk/offermarket/v1?apikey={YOURAPIKEY}&offerType="all" ```
+``` https://api.mobrand.net/{YOURUSERID}/bulk/offermarket/v1?apikey={YOURAPIKEY}&offerType=all ```
 
 ### Response
 #### Example Response:
